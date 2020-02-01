@@ -1,2 +1,2 @@
 # Guessing
-A C# Guessing game
+A guessing game developed using C#
